@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a CGPA where users can calculate their CGPA and also receive advice from a bot based on the users performance.
-- 🌱 I’m currently learning django rest framework and fastapi 
+- 🔭 I’m currentlyexploring data analysis and data science with python. 
 - 👯 I’m looking to collaborate on any e-commerce or AI projects
 - 💬 Ask me about django and django rest framework,python,Javascript
 - 📫 How to reach me:chisomzzy1@gmail.com, www.linkedin.com/in/
